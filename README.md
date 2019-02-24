@@ -1,4 +1,4 @@
-# Arduino_Embedded_Art   ECE5789 Embedded Systems with dynamic art
+# Arduino_Embedded_Art   ECE5789 Embedded Systems & Kinetic Art
 For this assignment you should (as a team of three) design, build, and demo a small kinetic art piece that involves Arduino control, at least one sensor for input, and at least one servo for movement.
 
 Sensor: You can use any environmental sensor you like, as long as it’s easily connected to the Arduino. In practice this typically means some sort of resistive sensor connected to the analog inputs. Sensors that we have that you can use include:
